@@ -6,7 +6,7 @@
     --text-secondary: #666;
     --accent-color: #4a90e2; /* Focus Blue */
     --ring-bg: #e0e0e0;
-    --shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+    --shadow: 0 8px 32px 1 rgba(31, 38, 135, 0.15);
     --border: 1px solid rgba(255, 255, 255, 0.18);
     --font-main: 'Inter', sans-serif;
     --font-mono: 'JetBrains Mono', monospace;
